@@ -1,0 +1,10 @@
+create directory structure
+create a NPM project and install all dependeicies
+dependeicies
+ -- express
+ -- ejs express-ejs-layout
+ -Dev dependeicies
+ - nodemon 
+ create expess server - create a server.js file
+ create home page using html and css
+ 
